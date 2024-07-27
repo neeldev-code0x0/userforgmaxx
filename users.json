@@ -1,4 +1,13 @@
 [
-    {"username": "user1", "password": "pass1"},
-    {"username": "user2", "password": "pass2"}
+    {
+        "username": "user1",
+        "password": "password1",
+        "mac_address": "06-79-01-DB-E9-77"
+    },
+    {
+        "username": "user2",
+        "password": "password2",
+        "mac_address": "01:2B:3C:4D:5E:6F"
+    }
+    // Add more users as needed
 ]
